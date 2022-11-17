@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Wei
 - 👀 I’m interested in learning new tech skills.
-- 🌱 I’m currently working on to become a full stuack developer.
+- 🌱 I’m currently working on to become a Software Engineer.
 - 💞️ I’m looking to collaborate on a small team project.
-- 📫 How to reach me: please reach me at wcheng2@babson.edu.
+- 📫 How to reach me: please reach me at wei.cheng002@umb.edu.
 
 <!---
 chengwei0815/chengwei0815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
