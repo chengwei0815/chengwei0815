@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**chengwei0815/chengwei0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Wei, a software developer.
 
-Here are some ideas to get you started:
+I have deep knowledge in front-end and back-end, data structures, algorithms, teamwork, and communication. Love to make everything in an order that makes logical sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical proficiencies include:
+
+Frontend: React, Bootstrap
+
+Backend: Node.js, noSQL, Express, MongoDB, Mongoose
+
+Languages: JavaScript, Python
+
+I’m looking for any opportunities. Feel free to reach me - chengwei666111@gmail.com
+
