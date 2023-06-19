@@ -10,7 +10,7 @@ Frontend: React, Bootstrap
 
 Backend: Node.js, noSQL, Express, MongoDB, Mongoose
 
-Languages: JavaScript, Python
+Languages: JavaScript, Python, Java, C#, .NET
 
 I’m looking for any opportunities. Feel free to reach me - wcheng2@babson.edu
 
