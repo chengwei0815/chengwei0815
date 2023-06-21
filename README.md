@@ -14,3 +14,4 @@ Languages: JavaScript, Python, Java, C#, .NET
 
 I’m looking for any opportunities. Feel free to reach me - wcheng2@babson.edu
 
+Motivation: Get a tech related job that I can utilize my learned skills in Bootcamp to create values.
