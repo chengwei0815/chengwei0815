@@ -10,4 +10,4 @@ I excel in communicating with clients at all levels, from executives to technica
 * Visualizations: Tableau • Power BI • GIS
 * Database System: MySQL * ERD * Microsoft SQL Server * Google BigQuery * Excel (Pivot Table, X-Lookup, Slicers, SumIFs)
 * Machine Leaning and Operation Optimization: Sci-kit Learn * Microsoft 365 Automation
-* Business: Digital Marketing • Project Management * CRM • Superior Business Writing and Public Speaking Skills
+* Business: Client communication, Agile Project management
