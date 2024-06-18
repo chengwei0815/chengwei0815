@@ -3,8 +3,7 @@
 
 #### SKILLS
 * Programming: SQL (window function) • Python (Pandas, NumPy, Matlab)
-* Statistics: A/B Testing • Customer Segmentation • Regression • Classifications
-* Visualizations: Tableau • Power BI • GIS
-* Database System: MySQL * ERD * Microsoft SQL Server * Google BigQuery * Excel (Pivot Table, X-Lookup, Slicers, SumIFs)
-* Machine Leaning and Operation Optimization: Sci-kit Learn * Microsoft 365 Automation
+* Visualizations: Tableau • Power BI 
+* Database System: MySQL
+* Machine Leaning: Sci-kit Learn
 * Business: Client communication, Agile Project management
