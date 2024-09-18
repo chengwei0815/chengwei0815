@@ -12,7 +12,6 @@ Connect with me: https://www.linkedin.com/in/weicheng611/
 
 
 
-
 #### SKILLS
 * Programming: Python, SQL, Linux/Bash, VBA, Scala, Oracle, JavaScript, NoSQL, HTML/CSS
 * Machine Learning: Scikit-learn, Classification, Clustering, Neural Network, LP, NLTK, SpaCy
