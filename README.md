@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-Connect with me: https://www.linkedin.com/in/weicheng611/
+
 
 🔭 I’m a data scientist with a background in full-stack software engineering, and Accounting & Finance, currently working on job market trend client projects using OpenAI, PostgreSQL, LLM
 
-🌱 I’m currently learning Data Engineer
 
-👨‍💻 Look at my portfolio 
-
-💬 Ask me about DataScience, Ml, Dl, Web dev
-
+👨‍💻 Look at my portfolio: https://www.linkedin.com/in/weicheng611/
 
 
 #### SKILLS
