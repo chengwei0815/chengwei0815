@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m a data scientist with a background in full-stack software engineering, and Accounting & Finance, currently working on job market trend client projects using OpenAI, PostgreSQL, LLM
+🔭 I’m a data science consultant with a background in full-stack software engineering, and Accounting & Finance, currently working on job market trend client projects using OpenAI, PostgreSQL, LLM
 
 
 👨‍💻 Look at my portfolio: https://www.linkedin.com/in/weicheng611/
