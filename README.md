@@ -15,5 +15,4 @@
 * Big Data: Spark, Hive, Hadoop, AWS (EC2, S3, EMR, Redshift), Airflow, Docker
 * Web Development: Frontend - React, Bootstrap, Backend - Node.js, noSOL, Express, MongoDB, Mongoose
 
-****A dedicated and aspiring Software and Technology Engineer to work in
-an organization that provides opportunities for technical and personal advancement.****
+
