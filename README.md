@@ -15,5 +15,5 @@ I am a Master's Student from University of Mannachusetts Boston studying Analyti
 
 
 
-DATA ANALYTICS SKILLS
+#### DATA ANALYTICS SKILLS
 Programming Languages: Python, SQL, JavaScript | Data Wrangling Tools: Pandas, NumPy | Visualization Tools: Tableau, Power BI, Seaborn, Matplotlib | Machine Learning Frameworks: Scikit-learn, TensorFlow | Cloud & Big Data: AWS (EC2, S3, Redshift), Airflow, Docker, Amazon QuickSight
