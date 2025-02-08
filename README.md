@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m a data professional with a background in full-stack software engineering, Accounting & Finance, currently working on job market trend client projects using OpenAI, PostgreSQL, LLM, AWS, Airflow and Docker
+🔭 I’m a data professional with a background in full-stack software engineering, Accounting & Finance, currently working on job market trend client projects using OpenAI, PostgreSQL, LLM, AWS, Airflow and Docker. I am currently studying GenAI.
 
 I am a Master's Student from University of Mannachusetts Boston studying Analytics with a specialization in Finance. Love playing Football, cooking.
 
