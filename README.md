@@ -7,7 +7,7 @@
 I am a Master's Student from University of Mannachusetts Boston studying Analytics with a specialization in Finance. Love cooking.
 
 #### SKILLS
-* Programming: jAVA, Python, SQL, JavaScript, HTML/CSS
+* Programming: Java, Python, SQL, JavaScript, HTML/CSS
 * Machine Learning: Linear Regression, Logistic Regression, Decision trees, Random Forest, SVM, PCA, XgBoost, Anomaly Detection, Clustering, Time Series Analysis, NLP, Neural networks- CNN, RNN, LSTM, BERT, USE
 * Analytics: Predictive modeling, Tableau, Matplotlib, Folium, Power BI, Seaborn
 * Big Data: Spark, Hive, Hadoop, AWS (EC2, S3, ECR, Redshift), Airflow, Docker, Snowflake, Databricks, Amazon QuickSight
